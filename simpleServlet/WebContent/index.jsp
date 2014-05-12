@@ -9,5 +9,10 @@
 <body>
 
 <h1>This is very good page I am trying with git and modified again  </h1>
+
+<form action="hello" method="POST">
+Enter name is :<input type="text" name="name"/>
+<input type="submit" value="Enter"/>
+</form>
 </body>
 </html>
